@@ -1,0 +1,15 @@
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\bin\Debug\net7.0\Ride Maker.exe
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\bin\Debug\net7.0\Ride Maker.deps.json
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\bin\Debug\net7.0\Ride Maker.runtimeconfig.json
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\bin\Debug\net7.0\Ride Maker.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\bin\Debug\net7.0\Ride Maker.pdb
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\Ride Maker.csproj.AssemblyReference.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\Ride Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\Ride Maker.AssemblyInfoInputs.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\Ride Maker.AssemblyInfo.cs
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\Ride Maker.csproj.CoreCompileInputs.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\Ride Maker.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\refint\Ride Maker.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\Ride Maker.pdb
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\Ride Maker.genruntimeconfig.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Ride Maker\obj\Debug\net7.0\ref\Ride Maker.dll
